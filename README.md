@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 11-03-2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,16 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1902" height="900" alt="image" src="https://github.com/user-attachments/assets/7e9f8efe-991e-420f-a671-611304821442" />
+<img width="1900" height="907" alt="image" src="https://github.com/user-attachments/assets/d47a7944-8059-4360-abd1-39db6aaa6318" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/af8438a9-33c6-4720-b217-e1d5d84381d2" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b6648c52-7c07-441e-842d-3fb0549569e1" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cf591580-626a-43f6-9d83-2bb6430db8f0" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6bccf67d-d93c-406f-ab76-04d004459857" />
 
-### Name:
-### Register Number:
+
+### Name: Praveen Raj G
+### Register Number:212224040245
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
